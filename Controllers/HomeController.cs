@@ -25,6 +25,7 @@ namespace GitHub_Test3.Controllers
             //here is a comment.
             return View();
             //a second comment.
+            //a third comment.
         }
 
         public IActionResult Privacy()
